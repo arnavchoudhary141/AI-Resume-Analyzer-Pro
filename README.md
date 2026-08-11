@@ -143,25 +143,7 @@ http://localhost:5173
 
 ---
 
-## 📸 Screenshots
 
-### Login
-
-(Add Screenshot)
-
-### Register
-
-(Add Screenshot)
-
-### Dashboard
-
-(Add Screenshot)
-
-### Resume Analysis
-
-(Add Screenshot)
-
----
 
 ## 🚀 Future Improvements
 
@@ -179,9 +161,8 @@ http://localhost:5173
 
 **Arnav Choudhary**
 
-GitHub: https://github.com/YOUR_USERNAME
 
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+
 
 ---
 
